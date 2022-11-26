@@ -1,0 +1,200 @@
+D:\Test4\Control Industrial Processes\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe.config
+D:\Test4\Control Industrial Processes\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe
+D:\Test4\Control Industrial Processes\Control Industrial Processes\bin\Debug\Control Industrial Processes.pdb
+D:\Test4\Control Industrial Processes\Control Industrial Processes\bin\Debug\EasyModbus.dll
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control Industrial Processes.csprojAssemblyReference.cache
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Main.resources
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Properties.Resources.resources
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.GenerateResource.cache
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.CoreCompileInputs.cache
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.CopyComplete
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control Industrial Processes.pdb
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Temp.resources
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.ResolveComReference.cache
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Event.resources
+D:\Test4\Control Industrial Processes\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe.manifest
+D:\Test4\Control Industrial Processes\Control Industrial Processes\bin\Debug\Control Industrial Processes.application
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe.manifest
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control Industrial Processes.application
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Valves.resources
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Boiler.resources
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe.config
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe.manifest
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\bin\Debug\Control Industrial Processes.application
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\bin\Debug\Control Industrial Processes.pdb
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\obj\Debug\Control Industrial Processes.csprojAssemblyReference.cache
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.ResolveComReference.cache
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Boiler.resources
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Event.resources
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Main.resources
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Properties.Resources.resources
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Temp.resources
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Valves.resources
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.GenerateResource.cache
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.CoreCompileInputs.cache
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe.manifest
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\obj\Debug\Control Industrial Processes.application
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.CopyComplete
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\obj\Debug\Control Industrial Processes.pdb
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\obj\Debug\KnobControl.KnobControl.resources
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.DieselGen.resources
+E:\Control Industrial Processes V 1.0.02\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Interpreter.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control Industrial Processes.csprojAssemblyReference.cache
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.ResolveComReference.cache
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Boiler.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.DieselGen.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Event.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Interpreter.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\KnobControl.KnobControl.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Main.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Properties.Resources.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Temp.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Valves.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.GenerateResource.cache
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.CoreCompileInputs.cache
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control Industrial Processes.pdb
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe.config
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe.manifest
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\bin\Debug\Control Industrial Processes.application
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\bin\Debug\Control Industrial Processes.pdb
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\bin\Debug\System.ValueTuple.dll
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe.manifest
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control Industrial Processes.application
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.CopyComplete
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe.config
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe.manifest
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\bin\Debug\Control Industrial Processes.application
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\bin\Debug\Control Industrial Processes.pdb
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\bin\Debug\System.ValueTuple.dll
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control Industrial Processes.csprojAssemblyReference.cache
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.ResolveComReference.cache
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Boiler.resources
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.DieselGen.resources
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Event.resources
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Interpreter.resources
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\KnobControl.KnobControl.resources
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Main.resources
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Properties.Resources.resources
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Temp.resources
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Valves.resources
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.GenerateResource.cache
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.CoreCompileInputs.cache
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe.manifest
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control Industrial Processes.application
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.CopyComplete
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control Industrial Processes.pdb
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.SendData.resources
+E:\Control Industrial Processes V 1.0.04\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Receiver.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe.config
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe.manifest
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\bin\Debug\Control Industrial Processes.application
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\bin\Debug\Control Industrial Processes.pdb
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\bin\Debug\System.ValueTuple.dll
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control Industrial Processes.csprojAssemblyReference.cache
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.ResolveComReference.cache
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Boiler.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.DieselGen.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Event.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.ICS3.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Interpreter.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\KnobControl.KnobControl.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Main.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Properties.Resources.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.RD3.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Receiver.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.SD1.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.SendData.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.SMTER.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Temp.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Valves.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.GenerateResource.cache
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.CoreCompileInputs.cache
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe.manifest
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control Industrial Processes.application
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.CopyComplete
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.05\Control Industrial Processes\obj\Debug\Control Industrial Processes.pdb
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe.config
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe.manifest
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\bin\Debug\Control Industrial Processes.application
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\bin\Debug\Control Industrial Processes.pdb
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\bin\Debug\System.ValueTuple.dll
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control Industrial Processes.csprojAssemblyReference.cache
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.ResolveComReference.cache
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Boiler.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Debriefing.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.DieselGen.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Event.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.ICS3.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Interpreter.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\KnobControl.KnobControl.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Main.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Properties.Resources.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.QPG.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.RD3.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Receiver.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.SD1.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.SendData.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.SMTER.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Temp.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Valves.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.GenerateResource.cache
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.CoreCompileInputs.cache
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe.manifest
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control Industrial Processes.application
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.CopyComplete
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.06\Control Industrial Processes\obj\Debug\Control Industrial Processes.pdb
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe.config
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe.manifest
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\bin\Debug\Control Industrial Processes.application
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\bin\Debug\Control Industrial Processes.pdb
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\bin\Debug\System.ValueTuple.dll
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control Industrial Processes.csprojAssemblyReference.cache
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.ResolveComReference.cache
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Boiler.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Debriefing.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.DieselGen.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Event.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.ICS3.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Interpreter.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\KnobControl.KnobControl.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Main.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Properties.Resources.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.QPG.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.RD3.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Receiver.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.SD1.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.SendData.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.SMTER.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Temp.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Valves.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.WarningSound.resources
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.GenerateResource.cache
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.CoreCompileInputs.cache
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe.manifest
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control Industrial Processes.application
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.CopyComplete
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control Industrial Processes.pdb
+C:\Users\N.D\Desktop\Control Industrial Processes V 1.0.08\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.DescriptionsAboutCIP.resources
