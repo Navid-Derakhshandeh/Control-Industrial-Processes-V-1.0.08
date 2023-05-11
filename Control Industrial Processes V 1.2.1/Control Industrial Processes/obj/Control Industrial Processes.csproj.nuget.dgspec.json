@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\N.D\\Desktop\\Control Industrial Processes V 1.2.1\\Control Industrial Processes\\Control Industrial Processes.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\N.D\\Desktop\\Control Industrial Processes V 1.2.1\\Control Industrial Processes\\Control Industrial Processes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\N.D\\Desktop\\Control Industrial Processes V 1.2.1\\Control Industrial Processes\\Control Industrial Processes.csproj",
+        "projectName": "Control Industrial Processes",
+        "projectPath": "C:\\Users\\N.D\\Desktop\\Control Industrial Processes V 1.2.1\\Control Industrial Processes\\Control Industrial Processes.csproj",
+        "packagesPath": "C:\\Users\\N.D\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\N.D\\Desktop\\Control Industrial Processes V 1.2.1\\Control Industrial Processes\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\N.D\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.Toolkit.Uwp.Notifications": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
+            "Opc.UaFx.Client": {
+              "target": "Package",
+              "version": "[2.30.0, )"
+            },
+            "S7netplus": {
+              "target": "Package",
+              "version": "[0.16.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
