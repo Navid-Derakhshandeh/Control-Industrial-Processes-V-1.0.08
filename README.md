@@ -32,4 +32,31 @@ RS-232:
 OPC UA:
 ![Screenshot (1638)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/dab3efdc-1880-49ee-a2c8-1b3f97b6bb4a)
 
+In this Software, You Can Design Your Monitoring Environment.
+
+![Screenshot (1639)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/9b24dc3c-4d83-4469-baf6-81d1f498ca73)
+
+![Screenshot (1640)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/126d7e9a-2444-4be4-a4e7-1dee422f0ab9)
+
+In This Software You can Make Data Model and use For Analysis Your Processes. For Develop This Attribute I used ML.NET.
+
+![Screenshot (337)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/9e1b23af-345d-4fcb-ad5c-3e23133c6755)
+
+For This Software Package, I Developed Internal DSL You can Monitor Your Processes with Commands.
+
+![Screenshot (336)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/ac0352a2-e6dc-465d-ac87-e0da992d8b22)
+
+In This Software Package, You have many Communication Features. You can chat with Other Parts of your Industrial Environment. And you can Send or Receive Data.
+
+![Screenshot (339)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/940f0bf2-9686-45b5-96b4-f868270b989f)
+
+In this Software Package, You Can Get Daily Report, And Draw Graph.
+
+![Screenshot (338)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/4907280d-de28-4eac-9a46-442ccc377678)
+
+PROFINET:
+
+![Screenshot (340)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/8958629d-d666-4b34-85af-634441387167)
+
+You Can Download This Package and wide your Idea.
 
