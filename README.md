@@ -4,6 +4,8 @@ Developer: Navid Derakhshandeh
 
 Email: perf.datre@gmail.com
 
+       navid.derakhshandeh1@gmail.com
+
 Abstract: I have Developed Software Package that Can Monitor Industrial Processes and Control Industrial Tasks. 
 The Development of This Software Package Has Taken 8 Months to #date. 
 This Software Package Has a lot of Ability. For Instance, You Can Communicate With Your Industrial Device By USART-RS232, MODBU, OPC UA, And PROFINET. 
