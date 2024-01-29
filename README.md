@@ -36,7 +36,8 @@ OPC UA:
 
 In this Software, You Can Design Your Monitoring Environment.
 
-![Screenshot (1639)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/9b24dc3c-4d83-4469-baf6-81d1f498ca73)
+![Screenshot (501)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/30049e54-c7d7-4067-910d-f349d4a4e7ba)
+
 
 ![Screenshot (1640)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/126d7e9a-2444-4be4-a4e7-1dee422f0ab9)
 
