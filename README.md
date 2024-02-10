@@ -16,6 +16,8 @@ Main Environment
 MODBUS Protocol
 ![Screenshot (328)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/12d5d2ce-edb3-44ac-a775-f8383e4c495a)
 ![Screenshot (329)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/81e09fb4-3411-4c6a-9448-72c5285f3a64)
+![Screenshot (505)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/6b97a58c-9d1d-44c7-9fc0-6777b56e2967)
+![Screenshot (504)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/b2322953-33fe-4057-9826-bac25b5abca6)
 
 If any Problem Happen. Software Automatically Establish Record In Database. Moreover, If Problem has Very High Hazard, Software Plays Siren.
 
