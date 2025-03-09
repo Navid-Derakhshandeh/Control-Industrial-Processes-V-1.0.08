@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Control Industrial Processes V 1.4.3\\Control Industrial Processes\\Control Industrial Processes.csproj": {}
+  },
+  "projects": {
+    "E:\\Control Industrial Processes V 1.4.3\\Control Industrial Processes\\Control Industrial Processes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Control Industrial Processes V 1.4.3\\Control Industrial Processes\\Control Industrial Processes.csproj",
+        "projectName": "Control Industrial Processes",
+        "projectPath": "E:\\Control Industrial Processes V 1.4.3\\Control Industrial Processes\\Control Industrial Processes.csproj",
+        "packagesPath": "C:\\Users\\N.D\\.nuget\\packages\\",
+        "outputPath": "E:\\Control Industrial Processes V 1.4.3\\Control Industrial Processes\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\N.D\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "M2Mqtt": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Microsoft.Toolkit.Uwp.Notifications": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
+            "Opc.UaFx.Client": {
+              "target": "Package",
+              "version": "[2.30.0, )"
+            },
+            "S7netplus": {
+              "target": "Package",
+              "version": "[0.16.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
