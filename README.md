@@ -1,4 +1,4 @@
-# Control-Industrial-Processes-V-1.4.2
+# Control-Industrial-Processes-V-1.5.2
 
 Developer: Navid Derakhshandeh
 
@@ -8,7 +8,7 @@ Email: navid.derakhshandeh1@gmail.com
 
 Abstract: I have Developed Software Package that Can Monitor Industrial Processes and Control Industrial Tasks. 
 The Development of This Software Package Has Taken 8 Months to #date. 
-This Software Package Has a lot of Ability. For Instance, You Can Communicate With Your Industrial Device By USART-RS232, MODBU, OPC UA, And PROFINET. 
+This Software Package Has a lot of Ability. For Instance, You Can Communicate With Your Industrial Device By USART-RS232, MODBU, OPC UA, PROFINET And MQTT. 
 IF you want Get Further Information Read This README File.
 
 Main Environment
@@ -35,6 +35,11 @@ RS-232:
 
 OPC UA:
 ![Screenshot (1638)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/dab3efdc-1880-49ee-a2c8-1b3f97b6bb4a)
+
+MQTT:
+
+![Screenshot (533)](https://github.com/user-attachments/assets/09bec0f4-ed55-441f-96fa-dda848a9bd77)
+
 
 In this Software, You Can Design Your Monitoring Environment.
 
