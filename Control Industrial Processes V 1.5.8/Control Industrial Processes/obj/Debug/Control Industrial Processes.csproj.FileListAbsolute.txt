@@ -909,3 +909,86 @@ D:\test5\Control Industrial Processes V 1.5.4\Control Industrial Processes\obj\D
 D:\test5\Control Industrial Processes V 1.5.4\Control Industrial Processes\obj\Debug\Control Industrial Processes.pdb
 D:\test5\Control Industrial Processes V 1.5.4\Control Industrial Processes\obj\Debug\Interop.Mach4.dll
 D:\test5\Control Industrial Processes V 1.5.4\Control Industrial Processes\obj\Debug\Control_Industrial_Processes._3AxisController.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\CB0.png
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\CB1.png
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\CB2.png
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\CB3.png
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\CB4.png
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\CB5.png
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\CB6.png
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\CB7.png
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\CB8.png
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\CB9.png
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\bin\Debug\ACG.jpg
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\bin\Debug\Bourdon Tube.png
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\bin\Debug\Cooling Tower.png
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\bin\Debug\Gas Tank.png
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\bin\Debug\Manual Valve.png
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\bin\Debug\Motor.png
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\bin\Debug\pressure gauge.png
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\bin\Debug\Servo Valve.png
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\bin\Debug\transformer.jpg
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\bin\Debug\WT.jpg
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\Resources\Screenshot (56).png
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe.config
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe.manifest
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\Control Industrial Processes.application
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\Control Industrial Processes.pdb
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\M2Mqtt.Net.dll
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\Opc.UaFx.Client.dll
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\S7.Net.dll
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\System.Buffers.dll
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\System.Memory.dll
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\bin\Debug\System.ValueTuple.dll
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control Industrial Processes.csprojAssemblyReference.cache
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe.config
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Interop.Mach4.dll
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.ResolveComReference.cache
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes._3AxisController.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\MouseEvent.ArraySeg.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Boiler.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.ConveyorbeltSpeed.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Debriefing.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.DescriptionsAboutCIP.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.DesignApp.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.DieselGen.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Electric_arc_furnace.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Event.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.ICS3.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Interpreter.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\KnobControl.KnobControl.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Main.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.ModbusWorkbench.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.MonitorDcMotor.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.MQTTc.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Properties.Resources.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.QPG.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.RD3.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Receiver.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.RS232c.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.SD1.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.SendData.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.SMTER.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Temp.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.TunnelTurbine1.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Valves.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.WarningSound.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.WaterTank.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.WorkBenchToolKit.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.WorkBenchWidget.resources
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.GenerateResource.cache
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.CoreCompileInputs.cache
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe.manifest
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control Industrial Processes.application
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.CopyComplete
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe
+C:\Users\N.D\Documents\GitHub\Control-Industrial-Processes-V-1.0.04\Control Industrial Processes V 1.5.8\Control Industrial Processes\obj\Debug\Control Industrial Processes.pdb

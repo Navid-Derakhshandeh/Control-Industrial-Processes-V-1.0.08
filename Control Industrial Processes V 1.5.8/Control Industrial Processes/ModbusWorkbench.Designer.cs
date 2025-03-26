@@ -86,7 +86,7 @@ namespace Control_Industrial_Processes
             "0",
             "1",
             "2"});
-            this.comboBox1.Location = new System.Drawing.Point(456, 393);
+            this.comboBox1.Location = new System.Drawing.Point(449, 393);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 28);
             this.comboBox1.TabIndex = 6;
@@ -94,11 +94,11 @@ namespace Control_Industrial_Processes
             // generateButton
             // 
             this.generateButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.generateButton.Location = new System.Drawing.Point(589, 387);
+            this.generateButton.Location = new System.Drawing.Point(582, 387);
             this.generateButton.Name = "generateButton";
-            this.generateButton.Size = new System.Drawing.Size(91, 39);
+            this.generateButton.Size = new System.Drawing.Size(99, 39);
             this.generateButton.TabIndex = 5;
-            this.generateButton.Text = "Click";
+            this.generateButton.Text = "Generate";
             this.generateButton.UseVisualStyleBackColor = true;
             this.generateButton.Click += new System.EventHandler(this.generateButton_Click);
             // 
@@ -273,7 +273,7 @@ namespace Control_Industrial_Processes
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(301, 393);
+            this.label1.Location = new System.Drawing.Point(294, 393);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(149, 22);
             this.label1.TabIndex = 22;
@@ -286,7 +286,7 @@ namespace Control_Industrial_Processes
             // btnConnect
             // 
             this.btnConnect.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnConnect.Location = new System.Drawing.Point(55, 384);
+            this.btnConnect.Location = new System.Drawing.Point(48, 384);
             this.btnConnect.Name = "btnConnect";
             this.btnConnect.Size = new System.Drawing.Size(91, 39);
             this.btnConnect.TabIndex = 23;
@@ -297,7 +297,7 @@ namespace Control_Industrial_Processes
             // btnDisconnect
             // 
             this.btnDisconnect.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDisconnect.Location = new System.Drawing.Point(153, 384);
+            this.btnDisconnect.Location = new System.Drawing.Point(146, 384);
             this.btnDisconnect.Name = "btnDisconnect";
             this.btnDisconnect.Size = new System.Drawing.Size(128, 39);
             this.btnDisconnect.TabIndex = 24;

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qkwQ7VhfbkLIPGg6XSHpX4HkRomKOkZYOKb2LK2GDlBDOVGmdNy5NTnb8wsuniGE9P+eSZVwHouEXWcOr9CTdg==",
+  "dgSpecHash": "5+RxJ1faOTLPe71GXUgVgPlj0d36kjEX0snXk0gH942VaJnEEJOA+GPZpK9F000JXg/noq8UD2XNKuAKE2FeSQ==",
   "success": true,
-  "projectFilePath": "D:\\test5\\Control Industrial Processes V 1.5.4\\Control Industrial Processes\\Control Industrial Processes.csproj",
+  "projectFilePath": "C:\\Users\\N.D\\Documents\\GitHub\\Control-Industrial-Processes-V-1.0.04\\Control Industrial Processes V 1.5.8\\Control Industrial Processes\\Control Industrial Processes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\N.D\\.nuget\\packages\\m2mqtt\\4.3.0\\m2mqtt.4.3.0.nupkg.sha512",
     "C:\\Users\\N.D\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",

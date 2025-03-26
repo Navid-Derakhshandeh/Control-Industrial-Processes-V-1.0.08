@@ -2301,11 +2301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\test5\\Control Industrial Processes V 1.5.4\\Control Industrial Processes\\Control Industrial Processes.csproj",
+      "projectUniqueName": "C:\\Users\\N.D\\Documents\\GitHub\\Control-Industrial-Processes-V-1.0.04\\Control Industrial Processes V 1.5.8\\Control Industrial Processes\\Control Industrial Processes.csproj",
       "projectName": "Control Industrial Processes",
-      "projectPath": "D:\\test5\\Control Industrial Processes V 1.5.4\\Control Industrial Processes\\Control Industrial Processes.csproj",
+      "projectPath": "C:\\Users\\N.D\\Documents\\GitHub\\Control-Industrial-Processes-V-1.0.04\\Control Industrial Processes V 1.5.8\\Control Industrial Processes\\Control Industrial Processes.csproj",
       "packagesPath": "C:\\Users\\N.D\\.nuget\\packages\\",
-      "outputPath": "D:\\test5\\Control Industrial Processes V 1.5.4\\Control Industrial Processes\\obj\\",
+      "outputPath": "C:\\Users\\N.D\\Documents\\GitHub\\Control-Industrial-Processes-V-1.0.04\\Control Industrial Processes V 1.5.8\\Control Industrial Processes\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
