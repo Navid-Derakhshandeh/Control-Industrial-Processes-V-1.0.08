@@ -58,7 +58,14 @@ In This Software You can Make Data Model and use For Analysis Your Processes. Fo
 
 For This Software Package, I Developed Internal DSL You can Monitor Your Processes with Commands.
 
+First Internal DSL:
+
 ![Screenshot (336)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/ac0352a2-e6dc-465d-ac87-e0da992d8b22)
+
+Second Internal DSL:
+
+![Screenshot (544)](https://github.com/user-attachments/assets/ff14125f-1902-40c6-83ca-c264bcf2adbf)
+
 
 In This Software Package, You have many Communication Features. You can chat with Other Parts of your Industrial Environment. And you can Send or Receive Data.
 
