@@ -86,3 +86,6 @@ By this package you can control three-Axis CNC's. You can Start, Stop Machining 
 
 You Can Download This Package and wide your Idea.
 
+Performing Software:
+
+https://it.linkedin.com/posts/navid-derakhshandeh-6222331a5_profinet-plc-modbus-activity-7312958915736932353-hz1t
