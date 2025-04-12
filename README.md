@@ -97,5 +97,4 @@ https://www.linkedin.com/posts/activity-7315642790841872387-tJFg?utm_source=shar
 
 The Third Video:
 
-https://www.linkedin.com/posts/navid-derakhshandeh-6222331a5_a-modern-graphical-hmi-combined-with-mqtt-activity-7316919517387927552-RkF_
-
+https://www.linkedin.com/posts/activity-7316919517387927552-xqzg?utm_source=share&utm_medium=member_android&rcm=ACoAAC_o8roB3g4DEbBIVruRZEHiCPUKkHjvW6E
