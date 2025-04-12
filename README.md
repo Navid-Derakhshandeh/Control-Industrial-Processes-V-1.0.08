@@ -39,6 +39,8 @@ MQTT:
 
 ![Screenshot (533)](https://github.com/user-attachments/assets/09bec0f4-ed55-441f-96fa-dda848a9bd77)
 
+![Screenshot (552)](https://github.com/user-attachments/assets/3b54982c-3a86-491a-a24e-eafffa700573)
+
 In this Software, You Can Design Your Monitoring Environment.
 
 ![Screenshot (501)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/4d2b06c1-19a6-4b7b-b98e-ea9baea0529c)
