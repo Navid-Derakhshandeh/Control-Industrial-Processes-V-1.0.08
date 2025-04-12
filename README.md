@@ -39,7 +39,7 @@ MQTT:
 
 ![Screenshot (533)](https://github.com/user-attachments/assets/09bec0f4-ed55-441f-96fa-dda848a9bd77)
 
-![Screenshot (552)](https://github.com/user-attachments/assets/3b54982c-3a86-491a-a24e-eafffa700573)
+![Screenshot (551)](https://github.com/user-attachments/assets/38e218b4-b379-4330-b1d7-348ab2da1642)
 
 In this Software, You Can Design Your Monitoring Environment.
 
