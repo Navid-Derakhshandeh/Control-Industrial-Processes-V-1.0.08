@@ -85,6 +85,14 @@ By this package you can control three-Axis CNC's. You can Start, Stop Machining 
 
 ![Screenshot (538)](https://github.com/user-attachments/assets/774864dd-eb51-4eb2-80b9-63f8a3209487)
 
+Blazor Version:
+
+![Screenshot (556)](https://github.com/user-attachments/assets/8edef9ba-fca0-45b5-8c59-646a7b37bcb7)
+
+![Screenshot (557)](https://github.com/user-attachments/assets/c51d1abf-7c2d-4677-8494-53a5dd680157)
+
+![Screenshot (558)](https://github.com/user-attachments/assets/951ef1bb-d488-4be4-84e8-bb0081bd36f7)
+
 You Can Download This Package and wide your Idea.
 
 Performing Software, The First Video:
