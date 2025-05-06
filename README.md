@@ -39,6 +39,8 @@ MQTT:
 
 ![Screenshot (533)](https://github.com/user-attachments/assets/09bec0f4-ed55-441f-96fa-dda848a9bd77)
 
+![Screenshot (551)](https://github.com/user-attachments/assets/38e218b4-b379-4330-b1d7-348ab2da1642)
+
 In this Software, You Can Design Your Monitoring Environment.
 
 ![Screenshot (501)](https://github.com/Navid-Derakhshandeh/Control-Industrial-Processes-V-1.0.08/assets/111235264/4d2b06c1-19a6-4b7b-b98e-ea9baea0529c)
@@ -85,10 +87,14 @@ By this package you can control three-Axis CNC's. You can Start, Stop Machining 
 
 You Can Download This Package and wide your Idea.
 
-Performing Software, First Video:
+Performing Software, The First Video:
 
 https://it.linkedin.com/posts/navid-derakhshandeh-6222331a5_profinet-plc-modbus-activity-7312958915736932353-hz1t
 
-Second Video:
+The Second Video:
 
 https://www.linkedin.com/posts/activity-7315642790841872387-tJFg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_o8roB3g4DEbBIVruRZEHiCPUKkHjvW6E
+
+The Third Video:
+
+https://www.linkedin.com/posts/activity-7316919517387927552-xqzg?utm_source=share&utm_medium=member_android&rcm=ACoAAC_o8roB3g4DEbBIVruRZEHiCPUKkHjvW6E
