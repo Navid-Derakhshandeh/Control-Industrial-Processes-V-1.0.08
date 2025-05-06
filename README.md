@@ -5,7 +5,7 @@ Email: perf.datre@gmail.com
 
 Email: navid.derakhshandeh1@gmail.com
 
-Abstract: I have Developed Software Package that Can Monitor Industrial Processes and Control Industrial Tasks. The Development of This Software Package Has Taken 30 Months to date. This Software Package Has many Ability. For Instance, You Can Communicate With Industrial Devices By USART RS232,MODBU, OPC UA, PROFINET And MQTT protocols. also you can Control three-Axis CNC's. IF you want Get Further Information Read This README File.
+Abstract: I have Developed Software Package that Can Monitor Industrial Processes and Control Industrial Tasks. The Development of This Software Package Has Taken 30 Months to date. This Software Package Has many Ability. For Instance, You Can Communicate With Industrial Devices By USART RS232,MODBU, OPC UA, PROFINET And MQTT protocols. also you can Control three-Axis CNC's. The Blazor version has been added to this package. IF you want Get Further Information Read This README File.
 
 Main Environment
 
