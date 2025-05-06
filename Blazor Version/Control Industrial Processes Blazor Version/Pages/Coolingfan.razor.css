@@ -1,0 +1,57 @@
+﻿@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.fan-container {
+    width: 150px; /* Smaller container */
+    height: 150px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #222;
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+.fan {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: radial-gradient(circle, #888 20%, #444 80%);
+    position: relative;
+    animation: spin 1s linear infinite;
+}
+
+.fan-blade {
+    position: absolute;
+    width: 70px; /* Adjusted blade size */
+    height: 35px;
+    background: linear-gradient(to right, orange, darkorange);
+    border-radius: 50% 10px;
+    top: 50%;
+    left: 50%;
+    transform-origin: center;
+}
+
+    .fan-blade:nth-child(1) {
+        transform: translate(-50%, -50%) rotate(0deg);
+    }
+
+    .fan-blade:nth-child(2) {
+        transform: translate(-50%, -50%) rotate(90deg);
+    }
+
+    .fan-blade:nth-child(3) {
+        transform: translate(-50%, -50%) rotate(180deg);
+    }
+
+    .fan-blade:nth-child(4) {
+        transform: translate(-50%, -50%) rotate(270deg);
+    }

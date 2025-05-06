@@ -1,0 +1,88 @@
+﻿@page "/CoolingTower"
+<h1>Cooling Tower</h1>
+
+
+
+@using uPLibrary.Networking.M2Mqtt
+@using uPLibrary.Networking.M2Mqtt.Messages
+@using System.Text
+
+
+<h3>Control Industrial Processes Blazor Version</h3>
+
+<button class="btn btn-primary" @onclick="Connect">Connect</button>
+<button class="btn btn-primary" @onclick="Receive">Receive</button>
+<button class="btn btn-primary" @onclick="Send">Send</button>
+
+RPM of Tower Fan
+<input @bind="messageToSend" />
+
+<p>Temp Sensor: @receivedMessage</p>
+
+<div class="cooling-container">
+    <div class="cooling-tower"></div>
+    <div class="vapor"></div>
+    <div class="vapor"></div>
+    <div class="vapor"></div>
+    <div class="vapor"></div>
+    <div class="vapor"></div>
+</div>
+
+@code { private MqttClient _client;
+    private string _brokerAddress = "localhost";
+    private string username = "test_user"; // Change to your username
+    private string password = "test_password"; // Change to your password
+    private string topicReceive = "unit1/tag5";
+    private string topicSend = "unit1/tag6";
+    private string receivedMessage = "Waiting for data...";
+    private string messageToSend = "";
+    private string fanSpeed = "2s"; // Default fan speed
+
+    public void Connect()
+    {
+        try
+        {
+            _client = new MqttClient(_brokerAddress);
+            _client.MqttMsgPublishReceived += MessageReceived;
+            _client.Connect("client_id_1", "test", "test@unit1");
+            Console.WriteLine("Connected to MQTT broker.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Connection failed: {ex.Message}");
+        }
+    }
+
+    public void Send()
+    {
+        if (_client != null && _client.IsConnected)
+        {
+            var payload = Encoding.UTF8.GetBytes(messageToSend);
+            _client.Publish(topicSend, payload, MqttMsgBase.QOS_LEVEL_AT_LEAST_ONCE, false);
+            Console.WriteLine($"Published message to {topicSend}: {messageToSend}");
+        }
+        else
+        {
+            Console.WriteLine("MQTT client is not connected.");
+        }
+    }
+
+    public void Receive()
+    {
+        if (_client != null && _client.IsConnected)
+        {
+            _client.Subscribe(new string[] { topicReceive }, new byte[] { MqttMsgBase.QOS_LEVEL_AT_LEAST_ONCE });
+            Console.WriteLine($"Subscribed to {topicReceive}");
+        }
+        else
+        {
+            Console.WriteLine("MQTT client is not connected.");
+        }
+    }
+
+    private void MessageReceived(object sender, MqttMsgPublishEventArgs e)
+    {
+        receivedMessage = Encoding.UTF8.GetString(e.Message);
+        InvokeAsync(StateHasChanged); // Ensure UI updates
+        Console.WriteLine($"Received message from {topicReceive}: {receivedMessage}");
+    }}
