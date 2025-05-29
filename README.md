@@ -5,7 +5,7 @@ Email: perf.datre@gmail.com
 
 Email: navid.derakhshandeh1@gmail.com
 
-Abstract: I have Developed Software Package that Can Monitor Industrial Processes and Control Industrial Tasks. The Development of This Software Package Has Taken 30 Months to date. This Software Package Has many Ability. For Instance, You Can Communicate With Industrial Devices By USART RS232,MODBU, OPC UA, PROFINET And MQTT protocols. also you can Control three-Axis CNC's. IF you want Get Further Information Read This README File.
+Abstract: I have Developed Software Package that Can Monitor Industrial Processes and Control Industrial Tasks. The Development of This Software Package Has Taken 30 Months to date. This Software Package Has many Ability. For Instance, You Can Communicate With Industrial Devices By USART RS232,MODBU, OPC UA, PROFINET And MQTT protocols. also you can Control three-Axis CNC's. The Blazor version has been added to this package. IF you want Get Further Information Read This README File.
 
 Main Environment
 
@@ -85,6 +85,14 @@ By this package you can control three-Axis CNC's. You can Start, Stop Machining 
 
 ![Screenshot (538)](https://github.com/user-attachments/assets/774864dd-eb51-4eb2-80b9-63f8a3209487)
 
+Blazor Version:
+
+![Screenshot (556)](https://github.com/user-attachments/assets/8edef9ba-fca0-45b5-8c59-646a7b37bcb7)
+
+![Screenshot (557)](https://github.com/user-attachments/assets/c51d1abf-7c2d-4677-8494-53a5dd680157)
+
+![Screenshot (558)](https://github.com/user-attachments/assets/951ef1bb-d488-4be4-84e8-bb0081bd36f7)
+
 You Can Download This Package and wide your Idea.
 
 Performing Software, The First Video:
@@ -98,3 +106,7 @@ https://www.linkedin.com/posts/activity-7315642790841872387-tJFg?utm_source=shar
 The Third Video:
 
 https://www.linkedin.com/posts/activity-7316919517387927552-xqzg?utm_source=share&utm_medium=member_android&rcm=ACoAAC_o8roB3g4DEbBIVruRZEHiCPUKkHjvW6E
+
+The Fourth Video:
+
+https://github.com/user-attachments/assets/13a9b11b-4747-4c43-91bb-58859c123537
