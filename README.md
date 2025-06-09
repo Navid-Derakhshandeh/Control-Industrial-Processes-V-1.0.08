@@ -125,3 +125,5 @@ Linux Based GUI Program:
 
 The Video of Running Linux Based GUI Program :
 
+
+https://www.linkedin.com/posts/activity-7337915347527688192-cuOL?utm_source=share&utm_medium=member_android&rcm=ACoAAC_o8roB3g4DEbBIVruRZEHiCPUKkHjvW6E
