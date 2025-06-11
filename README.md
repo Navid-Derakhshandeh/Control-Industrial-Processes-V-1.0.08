@@ -5,7 +5,7 @@ Email: perf.datre@gmail.com
 
 Email: navid.derakhshandeh1@gmail.com
 
-Abstract: I have Developed Software Package that Can Monitor Industrial Processes and Control Industrial Tasks. The Development of This Software Package Has Taken 30 Months to date. This Software Package Has many Ability. For Instance, You Can Communicate With Industrial Devices By USART RS232,MODBU, OPC UA, PROFINET And MQTT protocols. also you can Control three-Axis CNC's. The Blazor version has been added to this package. This software includes a Linux-based web server that can run on various Linux distributions and facilitates communication with an MQTT broker. IF you want Get Further Information Read This README File.
+Abstract: I have Developed Software Package that Can Monitor Industrial Processes and Control Industrial Tasks. The Development of This Software Package Has Taken 30 Months to date. This Software Package Has many Ability. For Instance, You Can Communicate With Industrial Devices By USART RS232,MODBU, OPC UA, PROFINET And MQTT protocols. also you can Control three-Axis CNC's. The Blazor version has been added to this package. This software includes a Linux-based web server And GUI Program that can run on various Linux distributions and facilitates communication with an MQTT broker. IF you want Get Further Information Read This README File.
 
 Main Environment
 
@@ -119,3 +119,11 @@ The fifth video:
 
 https://www.linkedin.com/posts/activity-7333859758564708352-GwdD?utm_source=share&utm_medium=member_android&rcm=ACoAAC_o8roB3g4DEbBIVruRZEHiCPUKkHjvW6E
 
+Linux Based GUI Program:
+
+![Screenshot (562)](https://github.com/user-attachments/assets/260334a0-af5a-40b3-a545-9db0bb319aee)
+
+The Video of Running Linux Based GUI Program :
+
+
+https://www.linkedin.com/posts/activity-7337915347527688192-cuOL?utm_source=share&utm_medium=member_android&rcm=ACoAAC_o8roB3g4DEbBIVruRZEHiCPUKkHjvW6E
